@@ -172,8 +172,7 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 184152987}
-  selectedCommands:
-  - {fileID: 184152986}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -187,7 +186,7 @@ MonoBehaviour:
   luaBindingName: flowchart
 --- !u!114 &184152986
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
